@@ -1,5 +1,5 @@
 import csv
-import re
+import json
 
 
 def clean_player_name(name: str) -> str:
@@ -9,42 +9,65 @@ def clean_player_name(name: str) -> str:
     return name
 
 
-def home_run_number(description: str) -> int:
-    for hr_number_match in re.findall("\d+", description):
-        return int(str(hr_number_match))
-    return 0
+savant_fields = (
+    "game_date",
+    "player_name",
+    "batter",
+    "pitcher",
+    "outs_when_up",
+    "inning",
+    "hc_x",
+    "hc_y",
+)
 
-
-field_to_index = {
-    "game_date": 1,
-    "player_name": 5,
-    "batter_id": 6,
-    "pitcher_id": 7,
-    "description": 15,
-    "coordinate_x": 37,
-    "coordinate_y": 38,
-}
-# Using utf-8-sig treats the BOM (byte-order mark) in the raw savant data as metadata, not file content
-# Otherwise there's a weird zero-width space that ends up in the cleaned data.
-with open("./savant_data.csv", encoding="utf-8-sig") as raw_csv_file, open(
-    "./cleaned_data.csv", mode="w"
+# Strip out all the columns from the Baseball Savant CSV that we don't want/need.
+# Write the results to data/cleaned_data.csv
+with open("data/savant_data.csv", encoding="utf-8-sig") as raw_csv_file, open(
+    "data/cleaned_data.csv", mode="w"
 ) as cleaned_csv_file:
-    csv_reader = csv.reader(raw_csv_file)
-    csv_writer = csv.writer(cleaned_csv_file)
+    # ^^^ Using utf-8-sig treats the BOM (byte-order mark) in the raw savant data as metadata, not file content.
+    # Otherwise there's a weird zero-width space that ends up in the cleaned data.
+    csv_reader = csv.DictReader(raw_csv_file)
+    csv_writer = csv.DictWriter(
+        cleaned_csv_file, fieldnames=savant_fields, extrasaction="ignore"
+    )
+    csv_writer.writeheader()
     for row in csv_reader:
-        cleaned_row = [
-            row[field_to_index[field]]
-            for field in [
-                "game_date",
-                "player_name",
-                "batter_id",
-                "pitcher_id",
-                "description",
-                "coordinate_x",
-                "coordinate_y",
-            ]
-        ]
-        cleaned_row[1] = clean_player_name(cleaned_row[1])
-        cleaned_row[4] = home_run_number(cleaned_row[4])
+        row["player_name"] = clean_player_name(row["player_name"])
+        csv_writer.writerow(row)
 
-        csv_writer.writerow(cleaned_row)
+# Sort all the home runs chronologically ascending.
+# Write the results to data/sorted_data.csv
+with open("data/cleaned_data.csv") as cleaned_csv_file, open(
+    "data/sorted_data.csv", mode="w"
+) as sorted_csv_file:
+    csv_reader = csv.DictReader(cleaned_csv_file)
+    homeruns = sorted(
+        [row for row in csv_reader],
+        key=lambda hr: (hr["game_date"], hr["inning"], hr["outs_when_up"]),
+    )
+
+    csv_writer = csv.DictWriter(sorted_csv_file, fieldnames=savant_fields)
+    csv_writer.writeheader()
+    for homerun in homeruns:
+        csv_writer.writerow(homerun)
+
+# Group the sorted home runs by player
+with open("data/sorted_data.csv") as sorted_csv_file, open(
+    "data/player_data.json", mode="w", encoding="utf8"
+) as player_data_json:
+    grouped_by_player = {}
+    csv_reader = csv.DictReader(sorted_csv_file, fieldnames=savant_fields)
+    for row in csv_reader:
+        batter_id = row["batter"]
+        player_data = grouped_by_player.get(
+            batter_id, {"player_name": row["player_name"], "homeruns": []}
+        )
+
+        # Clean up some unnecessary data for each home run:
+        del row["batter"]
+        del row["player_name"]
+        player_data["homeruns"].append(row)
+        grouped_by_player[batter_id] = player_data
+
+    json.dump(grouped_by_player, player_data_json, indent=2, ensure_ascii=False)
