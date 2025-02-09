@@ -59,15 +59,17 @@ with open("data/sorted_data.csv") as sorted_csv_file, open(
     grouped_by_player = {}
     csv_reader = csv.DictReader(sorted_csv_file, fieldnames=savant_fields)
     for row in csv_reader:
-        batter_id = row["batter"]
-        player_data = grouped_by_player.get(
-            batter_id, {"player_name": row["player_name"], "homeruns": []}
-        )
+        # Skip the rare homers that don't have coordinate data for some reason
+        if row["hc_x"] and row["hc_y"]:
+            batter_id = row["batter"]
+            player_data = grouped_by_player.get(
+                batter_id, {"player_name": row["player_name"], "homeruns": []}
+            )
 
-        # Clean up some unnecessary data for each home run:
-        del row["batter"]
-        del row["player_name"]
-        player_data["homeruns"].append(row)
-        grouped_by_player[batter_id] = player_data
+            # Clean up some unnecessary data for each home run:
+            del row["batter"]
+            del row["player_name"]
+            player_data["homeruns"].append(row)
+            grouped_by_player[batter_id] = player_data
 
     json.dump(grouped_by_player, player_data_json, indent=2, ensure_ascii=False)
