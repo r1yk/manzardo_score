@@ -6,17 +6,18 @@ import math
 @dataclass
 class Circle:
     radius: float
-    center_x: float
-    center_y: float
+    center: "Coordinate"
 
 
-@dataclass
+@dataclass(frozen=True, eq=True)
 class Coordinate:
     x: float
     y: float
 
     def is_within(self, c: Circle) -> bool:
-        distance_from_center = math.sqrt((c.x - self.x) ** 2 + (c.y - self.y) ** 2)
+        distance_from_center = math.sqrt(
+            (c.center.x - self.x) ** 2 + (c.center.y - self.y) ** 2
+        )
         return distance_from_center <= c.radius
 
 
@@ -29,17 +30,16 @@ class Circle:
 def smallest_circle(homers: List[dict]) -> Circle:
     """ """
     hit_coordinates = set(
-        [Coordinate(x=homer["hc_x"], y=homer["hc_y"]) for homer in homers]
+        [Coordinate(x=float(homer["hc_x"]), y=float(homer["hc_y"])) for homer in homers]
     )
     return welzl(hit_coordinates, set())
 
 
 def welzl(all_points: Set[Coordinate], boundary_points: Set[Coordinate]) -> Circle:
-    if len(all_points) == 0:
-        raise ValueError("No points given, no such enclosing circle.")
+    # print(all_points, boundary_points)
 
-    if len(boundary_points) == 3:
-        return circumcircle(*list(boundary_points))
+    if len(all_points) == 0 or len(boundary_points) == 3:
+        return trivial(all_points, boundary_points)
 
     first_point = all_points.pop()
     circle = welzl(all_points, boundary_points)
@@ -47,6 +47,16 @@ def welzl(all_points: Set[Coordinate], boundary_points: Set[Coordinate]) -> Circ
         return circle
 
     return welzl(all_points, boundary_points.union({first_point}))
+
+
+def trivial(all_points: Set[Coordinate], boundary_points: Set[Coordinate]):
+    if len(all_points) == 0 or len(boundary_points) == 1:
+        return Circle(radius=0, center=Coordinate(0, 0))
+    elif len(boundary_points) == 2:
+        return Circle(radius=50, center=Coordinate(0, 0))
+
+    points = list(boundary_points)
+    return circumcircle(A=points[0], B=points[1], C=points[2])
 
 
 def circumcircle(A: Coordinate, B: Coordinate, C: Coordinate) -> Circle:

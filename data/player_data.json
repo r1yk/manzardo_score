@@ -1,17 +1,4 @@
 {
-  "batter": {
-    "player_name": "player_name",
-    "homeruns": [
-      {
-        "game_date": "game_date",
-        "pitcher": "pitcher",
-        "outs_when_up": "outs_when_up",
-        "inning": "inning",
-        "hc_x": "hc_x",
-        "hc_y": "hc_y"
-      }
-    ]
-  },
   "605141": {
     "player_name": "Mookie Betts",
     "homeruns": [

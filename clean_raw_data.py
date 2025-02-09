@@ -57,7 +57,7 @@ with open("data/sorted_data.csv") as sorted_csv_file, open(
     "data/player_data.json", mode="w", encoding="utf8"
 ) as player_data_json:
     grouped_by_player = {}
-    csv_reader = csv.DictReader(sorted_csv_file, fieldnames=savant_fields)
+    csv_reader = csv.DictReader(sorted_csv_file)
     for row in csv_reader:
         # Skip the rare homers that don't have coordinate data for some reason
         if row["hc_x"] and row["hc_y"]:
