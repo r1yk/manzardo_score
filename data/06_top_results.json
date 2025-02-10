@@ -1,0 +1,3845 @@
+{
+  "2": [
+    {
+      "batter_id": "700932",
+      "circle": {
+        "radius": 0.8549415184677777,
+        "center": {
+          "x": 183.095,
+          "y": 42.5
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-09-01",
+          "pitcher": "656605",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "182.65",
+          "hc_y": "43.23",
+          "launch_angle": "36",
+          "launch_speed": "106.6",
+          "home_team": "CLE",
+          "game_pk": "746592"
+        },
+        {
+          "game_date": "2024-09-01",
+          "pitcher": "656605",
+          "outs_when_up": "0",
+          "inning": "6",
+          "hc_x": "183.54",
+          "hc_y": "41.77",
+          "launch_angle": "37",
+          "launch_speed": "107.9",
+          "home_team": "CLE",
+          "game_pk": "746592"
+        }
+      ],
+      "similarity_score": 99.21126462038305
+    },
+    {
+      "batter_id": "642715",
+      "circle": {
+        "radius": 0.19659603251337532,
+        "center": {
+          "x": 28.545,
+          "y": 73.11500000000001
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-30",
+          "pitcher": "607259",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "28.57",
+          "hc_y": "72.92",
+          "launch_angle": "30",
+          "launch_speed": "100.7",
+          "home_team": "CIN",
+          "game_pk": "746730"
+        },
+        {
+          "game_date": "2024-08-30",
+          "pitcher": "691172",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "28.52",
+          "hc_y": "73.31",
+          "launch_angle": "32",
+          "launch_speed": "100.3",
+          "home_team": "CIN",
+          "game_pk": "746665"
+        }
+      ],
+      "similarity_score": 99.1344679891622
+    },
+    {
+      "batter_id": "572233",
+      "circle": {
+        "radius": 3.3640005945302645,
+        "center": {
+          "x": 216.48000000000002,
+          "y": 78.52
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-09-10",
+          "pitcher": "543135",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "214.46",
+          "hc_y": "75.83",
+          "launch_angle": "22",
+          "launch_speed": "104.5",
+          "home_team": "AZ",
+          "game_pk": "747152"
+        },
+        {
+          "game_date": "2024-09-10",
+          "pitcher": "543135",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "218.5",
+          "hc_y": "81.21",
+          "launch_angle": "22",
+          "launch_speed": "104.3",
+          "home_team": "AZ",
+          "game_pk": "747152"
+        }
+      ],
+      "similarity_score": 99.10899985136743
+    },
+    {
+      "batter_id": "656555",
+      "circle": {
+        "radius": 2.384806071780259,
+        "center": {
+          "x": 14.0,
+          "y": 84.12
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-03-30",
+          "pitcher": "622663",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "15.87",
+          "hc_y": "85.6",
+          "launch_angle": "28",
+          "launch_speed": "107.4",
+          "home_team": "NYM",
+          "game_pk": "745850"
+        },
+        {
+          "game_date": "2024-04-03",
+          "pitcher": "663978",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "12.13",
+          "hc_y": "82.64",
+          "launch_angle": "28",
+          "launch_speed": "107.4",
+          "home_team": "MIL",
+          "game_pk": "746008"
+        }
+      ],
+      "similarity_score": 99.0460775712879
+    },
+    {
+      "batter_id": "665828",
+      "circle": {
+        "radius": 0.778411844719745,
+        "center": {
+          "x": 232.185,
+          "y": 101.62
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "669203",
+          "outs_when_up": "2",
+          "inning": "5",
+          "hc_x": "231.48",
+          "hc_y": "101.95",
+          "launch_angle": "21",
+          "launch_speed": "103.3",
+          "home_team": "BAL",
+          "game_pk": "747048"
+        },
+        {
+          "game_date": "2024-06-09",
+          "pitcher": "607192",
+          "outs_when_up": "0",
+          "inning": "3",
+          "hc_x": "232.89",
+          "hc_y": "101.29",
+          "launch_angle": "21",
+          "launch_speed": "105.2",
+          "home_team": "NYY",
+          "game_pk": "745736"
+        }
+      ],
+      "similarity_score": 98.9286352621121
+    }
+  ],
+  "3": [
+    {
+      "batter_id": "502110",
+      "circle": {
+        "radius": 5.90073858548171,
+        "center": {
+          "x": 178.63418535217676,
+          "y": 47.70778189869015
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-13",
+          "pitcher": "656945",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "175.09",
+          "hc_y": "42.99",
+          "launch_angle": "24",
+          "launch_speed": "106.9",
+          "home_team": "NYM",
+          "game_pk": "745809"
+        },
+        {
+          "game_date": "2024-06-15",
+          "pitcher": "666745",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "183.18",
+          "hc_y": "51.47",
+          "launch_angle": "25",
+          "launch_speed": "105.1",
+          "home_team": "NYM",
+          "game_pk": "745805"
+        },
+        {
+          "game_date": "2024-06-15",
+          "pitcher": "660853",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "175.74",
+          "hc_y": "52.85",
+          "launch_angle": "26",
+          "launch_speed": "102.2",
+          "home_team": "NYM",
+          "game_pk": "745805"
+        }
+      ],
+      "similarity_score": 95.55268049924175
+    },
+    {
+      "batter_id": "668715",
+      "circle": {
+        "radius": 3.8884990677638083,
+        "center": {
+          "x": 78.64,
+          "y": 46.625
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-06",
+          "pitcher": "670990",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "81.12",
+          "hc_y": "43.63",
+          "launch_angle": "27",
+          "launch_speed": "101.9",
+          "home_team": "CIN",
+          "game_pk": "746731"
+        },
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "605397",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "76.57",
+          "hc_y": "49.3",
+          "launch_angle": "34",
+          "launch_speed": "101.6",
+          "home_team": "SD",
+          "game_pk": "745423"
+        },
+        {
+          "game_date": "2024-05-24",
+          "pitcher": "572020",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "76.16",
+          "hc_y": "49.62",
+          "launch_angle": "29",
+          "launch_speed": "101.1",
+          "home_team": "CIN",
+          "game_pk": "746713"
+        }
+      ],
+      "similarity_score": 94.60530812257055
+    },
+    {
+      "batter_id": "657136",
+      "circle": {
+        "radius": 7.210731847001349,
+        "center": {
+          "x": 55.617311138341954,
+          "y": 61.83979677578493
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-11",
+          "pitcher": "543056",
+          "outs_when_up": "2",
+          "inning": "8",
+          "hc_x": "57.93",
+          "hc_y": "55.01",
+          "launch_angle": "35",
+          "launch_speed": "104.4",
+          "home_team": "BOS",
+          "game_pk": "746977"
+        },
+        {
+          "game_date": "2024-04-16",
+          "pitcher": "595881",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "50.52",
+          "hc_y": "66.94",
+          "launch_angle": "39",
+          "launch_speed": "102.9",
+          "home_team": "BOS",
+          "game_pk": "746976"
+        },
+        {
+          "game_date": "2024-04-17",
+          "pitcher": "594902",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "55.53",
+          "hc_y": "69.05",
+          "launch_angle": "36",
+          "launch_speed": "101",
+          "home_team": "BOS",
+          "game_pk": "746973"
+        }
+      ],
+      "similarity_score": 94.5209755573745
+    },
+    {
+      "batter_id": "670623",
+      "circle": {
+        "radius": 5.769662035162889,
+        "center": {
+          "x": 26.7,
+          "y": 88.85
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "663687",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "28.23",
+          "hc_y": "86.27",
+          "launch_angle": "27",
+          "launch_speed": "95.8",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "657746",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "24.59",
+          "hc_y": "94.22",
+          "launch_angle": "26",
+          "launch_speed": "95.5",
+          "home_team": "MIN",
+          "game_pk": "745887"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "675989",
+          "outs_when_up": "2",
+          "inning": "8",
+          "hc_x": "28.81",
+          "hc_y": "83.48",
+          "launch_angle": "32",
+          "launch_speed": "95.6",
+          "home_team": "TB",
+          "game_pk": "745076"
+        }
+      ],
+      "similarity_score": 94.42938675300175
+    },
+    {
+      "batter_id": "678882",
+      "circle": {
+        "radius": 9.06345684603838,
+        "center": {
+          "x": 35.225,
+          "y": 61.425
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-07-07",
+          "pitcher": "596133",
+          "outs_when_up": "2",
+          "inning": "8",
+          "hc_x": "26.55",
+          "hc_y": "64.05",
+          "launch_angle": "31",
+          "launch_speed": "106.1",
+          "home_team": "NYY",
+          "game_pk": "745723"
+        },
+        {
+          "game_date": "2024-07-26",
+          "pitcher": "596133",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "36.07",
+          "hc_y": "64.74",
+          "launch_angle": "32",
+          "launch_speed": "106.4",
+          "home_team": "BOS",
+          "game_pk": "746933"
+        },
+        {
+          "game_date": "2024-08-02",
+          "pitcher": "656641",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "43.9",
+          "hc_y": "58.8",
+          "launch_angle": "31",
+          "launch_speed": "104.2",
+          "home_team": "TEX",
+          "game_pk": "744986"
+        }
+      ],
+      "similarity_score": 94.33994299413612
+    }
+  ],
+  "4": [
+    {
+      "batter_id": "605141",
+      "circle": {
+        "radius": 10.828631030744377,
+        "center": {
+          "x": 59.864999999999995,
+          "y": 59.035
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605130",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "51.65",
+          "hc_y": "66.09",
+          "launch_angle": "36",
+          "launch_speed": "97.2",
+          "home_team": "LAD",
+          "game_pk": "746099"
+        },
+        {
+          "game_date": "2024-09-09",
+          "pitcher": "592767",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "50.15",
+          "hc_y": "62.42",
+          "launch_angle": "31",
+          "launch_speed": "98.5",
+          "home_team": "LAD",
+          "game_pk": "746101"
+        },
+        {
+          "game_date": "2024-09-21",
+          "pitcher": "615698",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "68.08",
+          "hc_y": "51.98",
+          "launch_angle": "29",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746096"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "678020",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "52.73",
+          "hc_y": "63.95",
+          "launch_angle": "36",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746092"
+        }
+      ],
+      "similarity_score": 92.06854758770226
+    },
+    {
+      "batter_id": "606192",
+      "circle": {
+        "radius": 10.9655181890595,
+        "center": {
+          "x": 76.23812028027942,
+          "y": 41.635137416875274
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-08",
+          "pitcher": "641482",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "85.12",
+          "hc_y": "35.52",
+          "launch_angle": "29",
+          "launch_speed": "107.4",
+          "home_team": "NYY",
+          "game_pk": "745735"
+        },
+        {
+          "game_date": "2024-06-08",
+          "pitcher": "592454",
+          "outs_when_up": "1",
+          "inning": "8",
+          "hc_x": "82.88",
+          "hc_y": "32.91",
+          "launch_angle": "31",
+          "launch_speed": "104.7",
+          "home_team": "NYY",
+          "game_pk": "745735"
+        },
+        {
+          "game_date": "2024-06-09",
+          "pitcher": "661563",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "65.31",
+          "hc_y": "42.54",
+          "launch_angle": "29",
+          "launch_speed": "102.3",
+          "home_team": "NYY",
+          "game_pk": "745736"
+        },
+        {
+          "game_date": "2024-06-11",
+          "pitcher": "681982",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "73.06",
+          "hc_y": "52.13",
+          "launch_angle": "30",
+          "launch_speed": "103.8",
+          "home_team": "LAD",
+          "game_pk": "746139"
+        }
+      ],
+      "similarity_score": 91.32855126925143
+    },
+    {
+      "batter_id": "500743",
+      "circle": {
+        "radius": 12.313168763563665,
+        "center": {
+          "x": 23.22,
+          "y": 86.895
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-03-29",
+          "pitcher": "606149",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "23.37",
+          "hc_y": "89.4",
+          "launch_angle": "19",
+          "launch_speed": "104.9",
+          "home_team": "LAD",
+          "game_pk": "746167"
+        },
+        {
+          "game_date": "2024-04-03",
+          "pitcher": "690986",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "30.11",
+          "hc_y": "76.69",
+          "launch_angle": "23",
+          "launch_speed": "101.5",
+          "home_team": "LAD",
+          "game_pk": "746163"
+        },
+        {
+          "game_date": "2024-06-14",
+          "pitcher": "666142",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "13.73",
+          "hc_y": "86.66",
+          "launch_angle": "26",
+          "launch_speed": "102.2",
+          "home_team": "LAD",
+          "game_pk": "746134"
+        },
+        {
+          "game_date": "2024-08-24",
+          "pitcher": "669270",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "16.33",
+          "hc_y": "97.1",
+          "launch_angle": "24",
+          "launch_speed": "104.2",
+          "home_team": "LAD",
+          "game_pk": "746108"
+        }
+      ],
+      "similarity_score": 90.91473249457454
+    },
+    {
+      "batter_id": "514888",
+      "circle": {
+        "radius": 8.630724404534343,
+        "center": {
+          "x": 17.524135924104318,
+          "y": 82.99681777731873
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-03",
+          "pitcher": "641149",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "23.99",
+          "hc_y": "77.28",
+          "launch_angle": "27",
+          "launch_speed": "105.4",
+          "home_team": "HOU",
+          "game_pk": "746407"
+        },
+        {
+          "game_date": "2024-04-14",
+          "pitcher": "543135",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "9.53",
+          "hc_y": "86.25",
+          "launch_angle": "33",
+          "launch_speed": "106.3",
+          "home_team": "HOU",
+          "game_pk": "746404"
+        },
+        {
+          "game_date": "2024-04-14",
+          "pitcher": "543135",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "14.42",
+          "hc_y": "91.05",
+          "launch_angle": "37",
+          "launch_speed": "103.1",
+          "home_team": "HOU",
+          "game_pk": "746404"
+        },
+        {
+          "game_date": "2024-04-24",
+          "pitcher": "593576",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "20.87",
+          "hc_y": "80.27",
+          "launch_angle": "28",
+          "launch_speed": "105.4",
+          "home_team": "CHC",
+          "game_pk": "746889"
+        }
+      ],
+      "similarity_score": 89.92428104406108
+    },
+    {
+      "batter_id": "643376",
+      "circle": {
+        "radius": 7.428071755173075,
+        "center": {
+          "x": 34.965,
+          "y": 77.555
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "607625",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "32.33",
+          "hc_y": "84.5",
+          "launch_angle": "20",
+          "launch_speed": "105.7",
+          "home_team": "TOR",
+          "game_pk": "744939"
+        },
+        {
+          "game_date": "2024-05-11",
+          "pitcher": "663485",
+          "outs_when_up": "2",
+          "inning": "5",
+          "hc_x": "30.3",
+          "hc_y": "79.9",
+          "launch_angle": "23",
+          "launch_speed": "105.8",
+          "home_team": "TOR",
+          "game_pk": "744943"
+        },
+        {
+          "game_date": "2024-05-20",
+          "pitcher": "673929",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "40.04",
+          "hc_y": "72.64",
+          "launch_angle": "26",
+          "launch_speed": "103.7",
+          "home_team": "TOR",
+          "game_pk": "744935"
+        },
+        {
+          "game_date": "2024-07-11",
+          "pitcher": "663855",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "37.6",
+          "hc_y": "70.61",
+          "launch_angle": "27",
+          "launch_speed": "99.4",
+          "home_team": "SF",
+          "game_pk": "745313"
+        }
+      ],
+      "similarity_score": 89.58596412241347
+    }
+  ],
+  "5": [
+    {
+      "batter_id": "600869",
+      "circle": {
+        "radius": 10.764812659932703,
+        "center": {
+          "x": 219.16701701791644,
+          "y": 72.40861790794168
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-21",
+          "pitcher": "676710",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "210.36",
+          "hc_y": "73.39",
+          "launch_angle": "22",
+          "launch_speed": "107.6",
+          "home_team": "CIN",
+          "game_pk": "746698"
+        },
+        {
+          "game_date": "2024-06-21",
+          "pitcher": "676710",
+          "outs_when_up": "0",
+          "inning": "3",
+          "hc_x": "228.56",
+          "hc_y": "67.15",
+          "launch_angle": "28",
+          "launch_speed": "104.5",
+          "home_team": "CIN",
+          "game_pk": "746698"
+        },
+        {
+          "game_date": "2024-07-12",
+          "pitcher": "630023",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "210.57",
+          "hc_y": "65.93",
+          "launch_angle": "36",
+          "launch_speed": "99.8",
+          "home_team": "CIN",
+          "game_pk": "746685"
+        },
+        {
+          "game_date": "2024-07-13",
+          "pitcher": "665795",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "213.87",
+          "hc_y": "81.78",
+          "launch_angle": "25",
+          "launch_speed": "99.5",
+          "home_team": "CIN",
+          "game_pk": "746687"
+        },
+        {
+          "game_date": "2024-07-29",
+          "pitcher": "663878",
+          "outs_when_up": "1",
+          "inning": "8",
+          "hc_x": "218.6",
+          "hc_y": "64.21",
+          "launch_angle": "28",
+          "launch_speed": "104.7",
+          "home_team": "CIN",
+          "game_pk": "746684"
+        }
+      ],
+      "similarity_score": 86.85407493602692
+    },
+    {
+      "batter_id": "681082",
+      "circle": {
+        "radius": 8.81238826340596,
+        "center": {
+          "x": 186.19677248163458,
+          "y": 52.756754587788876
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-11",
+          "pitcher": "670059",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "188.75",
+          "hc_y": "48.8",
+          "launch_angle": "27",
+          "launch_speed": "102.3",
+          "home_team": "PHI",
+          "game_pk": "745601"
+        },
+        {
+          "game_date": "2024-04-28",
+          "pitcher": "650633",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "178.66",
+          "hc_y": "48.19",
+          "launch_angle": "24",
+          "launch_speed": "105.7",
+          "home_team": "SD",
+          "game_pk": "745428"
+        },
+        {
+          "game_date": "2024-04-28",
+          "pitcher": "650633",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "194.88",
+          "hc_y": "54.26",
+          "launch_angle": "36",
+          "launch_speed": "103.9",
+          "home_team": "SD",
+          "game_pk": "745428"
+        },
+        {
+          "game_date": "2024-05-13",
+          "pitcher": "621242",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "190.74",
+          "hc_y": "56.58",
+          "launch_angle": "24",
+          "launch_speed": "103.6",
+          "home_team": "NYM",
+          "game_pk": "745826"
+        },
+        {
+          "game_date": "2024-05-18",
+          "pitcher": "669022",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "181.05",
+          "hc_y": "59.91",
+          "launch_angle": "36",
+          "launch_speed": "103.1",
+          "home_team": "PHI",
+          "game_pk": "745581"
+        }
+      ],
+      "similarity_score": 86.79324276541493
+    },
+    {
+      "batter_id": "642350",
+      "circle": {
+        "radius": 25.33742932895916,
+        "center": {
+          "x": 54.515,
+          "y": 54.03
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-12",
+          "pitcher": "657571",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "63.7",
+          "hc_y": "44.56",
+          "launch_angle": "29",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745092"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "663687",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "40.28",
+          "hc_y": "47.49",
+          "launch_angle": "33",
+          "launch_speed": "109",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "695243",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "31.03",
+          "hc_y": "63.54",
+          "launch_angle": "34",
+          "launch_speed": "105",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-06-07",
+          "pitcher": "608344",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "78",
+          "hc_y": "44.52",
+          "launch_angle": "34",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745083"
+        },
+        {
+          "game_date": "2024-06-12",
+          "pitcher": "665871",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "60.88",
+          "hc_y": "35.04",
+          "launch_angle": "31",
+          "launch_speed": "104.8",
+          "home_team": "TB",
+          "game_pk": "745079"
+        }
+      ],
+      "similarity_score": 85.90309006981259
+    },
+    {
+      "batter_id": "643376",
+      "circle": {
+        "radius": 9.698899422099394,
+        "center": {
+          "x": 31.615000000000002,
+          "y": 77.445
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "607625",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "32.33",
+          "hc_y": "84.5",
+          "launch_angle": "20",
+          "launch_speed": "105.7",
+          "home_team": "TOR",
+          "game_pk": "744939"
+        },
+        {
+          "game_date": "2024-05-11",
+          "pitcher": "663485",
+          "outs_when_up": "2",
+          "inning": "5",
+          "hc_x": "30.3",
+          "hc_y": "79.9",
+          "launch_angle": "23",
+          "launch_speed": "105.8",
+          "home_team": "TOR",
+          "game_pk": "744943"
+        },
+        {
+          "game_date": "2024-05-20",
+          "pitcher": "673929",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "40.04",
+          "hc_y": "72.64",
+          "launch_angle": "26",
+          "launch_speed": "103.7",
+          "home_team": "TOR",
+          "game_pk": "744935"
+        },
+        {
+          "game_date": "2024-07-11",
+          "pitcher": "663855",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "37.6",
+          "hc_y": "70.61",
+          "launch_angle": "27",
+          "launch_speed": "99.4",
+          "home_team": "SF",
+          "game_pk": "745313"
+        },
+        {
+          "game_date": "2024-08-07",
+          "pitcher": "666142",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "23.19",
+          "hc_y": "82.25",
+          "launch_angle": "21",
+          "launch_speed": "107.2",
+          "home_team": "KC",
+          "game_pk": "746272"
+        }
+      ],
+      "similarity_score": 85.86601956417343
+    },
+    {
+      "batter_id": "643217",
+      "circle": {
+        "radius": 13.304465415791796,
+        "center": {
+          "x": 227.24,
+          "y": 80.92
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "686613",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "224.49",
+          "hc_y": "92.71",
+          "launch_angle": "31",
+          "launch_speed": "98.8",
+          "home_team": "CWS",
+          "game_pk": "746781"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "676272",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "237.67",
+          "hc_y": "81.88",
+          "launch_angle": "27",
+          "launch_speed": "105",
+          "home_team": "CWS",
+          "game_pk": "746775"
+        },
+        {
+          "game_date": "2024-07-14",
+          "pitcher": "656605",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "217.46",
+          "hc_y": "71.9",
+          "launch_angle": "30",
+          "launch_speed": "101.7",
+          "home_team": "CWS",
+          "game_pk": "746769"
+        },
+        {
+          "game_date": "2024-07-23",
+          "pitcher": "622250",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "237.02",
+          "hc_y": "89.94",
+          "launch_angle": "31",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744985"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "660896",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "214.98",
+          "hc_y": "82.82",
+          "launch_angle": "28",
+          "launch_speed": "97.8",
+          "home_team": "MIN",
+          "game_pk": "745879"
+        }
+      ],
+      "similarity_score": 85.86280841396626
+    }
+  ],
+  "6": [
+    {
+      "batter_id": "681082",
+      "circle": {
+        "radius": 12.865726757552407,
+        "center": {
+          "x": 186.52,
+          "y": 48.265
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-11",
+          "pitcher": "670059",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "188.75",
+          "hc_y": "48.8",
+          "launch_angle": "27",
+          "launch_speed": "102.3",
+          "home_team": "PHI",
+          "game_pk": "745601"
+        },
+        {
+          "game_date": "2024-04-28",
+          "pitcher": "650633",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "178.66",
+          "hc_y": "48.19",
+          "launch_angle": "24",
+          "launch_speed": "105.7",
+          "home_team": "SD",
+          "game_pk": "745428"
+        },
+        {
+          "game_date": "2024-04-28",
+          "pitcher": "650633",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "194.88",
+          "hc_y": "54.26",
+          "launch_angle": "36",
+          "launch_speed": "103.9",
+          "home_team": "SD",
+          "game_pk": "745428"
+        },
+        {
+          "game_date": "2024-05-13",
+          "pitcher": "621242",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "190.74",
+          "hc_y": "56.58",
+          "launch_angle": "24",
+          "launch_speed": "103.6",
+          "home_team": "NYM",
+          "game_pk": "745826"
+        },
+        {
+          "game_date": "2024-05-18",
+          "pitcher": "669022",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "181.05",
+          "hc_y": "59.91",
+          "launch_angle": "36",
+          "launch_speed": "103.1",
+          "home_team": "PHI",
+          "game_pk": "745581"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676272",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "191.99",
+          "hc_y": "36.62",
+          "launch_angle": "28",
+          "launch_speed": "105.3",
+          "home_team": "PHI",
+          "game_pk": "745557"
+        }
+      ],
+      "similarity_score": 83.69284994756592
+    },
+    {
+      "batter_id": "663837",
+      "circle": {
+        "radius": 20.990343613195094,
+        "center": {
+          "x": 37.635,
+          "y": 69.46000000000001
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "571945",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "46.91",
+          "hc_y": "50.63",
+          "launch_angle": "23",
+          "launch_speed": "106.5",
+          "home_team": "DET",
+          "game_pk": "746478"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "647315",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "28.36",
+          "hc_y": "88.29",
+          "launch_angle": "24",
+          "launch_speed": "99.7",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "605447",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "47.18",
+          "hc_y": "52.87",
+          "launch_angle": "27",
+          "launch_speed": "105.9",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "683003",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "30.88",
+          "hc_y": "81.13",
+          "launch_angle": "23",
+          "launch_speed": "102.6",
+          "home_team": "DET",
+          "game_pk": "746467"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "694973",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "52.24",
+          "hc_y": "67.31",
+          "launch_angle": "31",
+          "launch_speed": "101.6",
+          "home_team": "DET",
+          "game_pk": "746468"
+        },
+        {
+          "game_date": "2024-06-12",
+          "pitcher": "663623",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "45.02",
+          "hc_y": "76.4",
+          "launch_angle": "26",
+          "launch_speed": "94.6",
+          "home_team": "DET",
+          "game_pk": "746462"
+        }
+      ],
+      "similarity_score": 82.72239002259361
+    },
+    {
+      "batter_id": "605141",
+      "circle": {
+        "radius": 12.67047899576724,
+        "center": {
+          "x": 55.57876420631366,
+          "y": 54.04401104959135
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-31",
+          "pitcher": "518876",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "52.61",
+          "hc_y": "54.61",
+          "launch_angle": "36",
+          "launch_speed": "101.1",
+          "home_team": "AZ",
+          "game_pk": "747158"
+        },
+        {
+          "game_date": "2024-09-03",
+          "pitcher": "672710",
+          "outs_when_up": "2",
+          "inning": "10",
+          "hc_x": "43.9",
+          "hc_y": "49.13",
+          "launch_angle": "27",
+          "launch_speed": "104.4",
+          "home_team": "LAA",
+          "game_pk": "746185"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605130",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "51.65",
+          "hc_y": "66.09",
+          "launch_angle": "36",
+          "launch_speed": "97.2",
+          "home_team": "LAD",
+          "game_pk": "746099"
+        },
+        {
+          "game_date": "2024-09-09",
+          "pitcher": "592767",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "50.15",
+          "hc_y": "62.42",
+          "launch_angle": "31",
+          "launch_speed": "98.5",
+          "home_team": "LAD",
+          "game_pk": "746101"
+        },
+        {
+          "game_date": "2024-09-21",
+          "pitcher": "615698",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "68.08",
+          "hc_y": "51.98",
+          "launch_angle": "29",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746096"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "678020",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "52.73",
+          "hc_y": "63.95",
+          "launch_angle": "36",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746092"
+        }
+      ],
+      "similarity_score": 82.67771260253966
+    },
+    {
+      "batter_id": "643217",
+      "circle": {
+        "radius": 13.304465415791796,
+        "center": {
+          "x": 227.24,
+          "y": 80.92
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "686613",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "224.49",
+          "hc_y": "92.71",
+          "launch_angle": "31",
+          "launch_speed": "98.8",
+          "home_team": "CWS",
+          "game_pk": "746781"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "676272",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "237.67",
+          "hc_y": "81.88",
+          "launch_angle": "27",
+          "launch_speed": "105",
+          "home_team": "CWS",
+          "game_pk": "746775"
+        },
+        {
+          "game_date": "2024-07-14",
+          "pitcher": "656605",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "217.46",
+          "hc_y": "71.9",
+          "launch_angle": "30",
+          "launch_speed": "101.7",
+          "home_team": "CWS",
+          "game_pk": "746769"
+        },
+        {
+          "game_date": "2024-07-23",
+          "pitcher": "622250",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "237.02",
+          "hc_y": "89.94",
+          "launch_angle": "31",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744985"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "660896",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "214.98",
+          "hc_y": "82.82",
+          "launch_angle": "28",
+          "launch_speed": "97.8",
+          "home_team": "MIN",
+          "game_pk": "745879"
+        },
+        {
+          "game_date": "2024-08-06",
+          "pitcher": "548389",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "229.14",
+          "hc_y": "91.3",
+          "launch_angle": "34",
+          "launch_speed": "98.4",
+          "home_team": "OAK",
+          "game_pk": "745629"
+        }
+      ],
+      "similarity_score": 82.62875868476307
+    },
+    {
+      "batter_id": "676391",
+      "circle": {
+        "radius": 18.688885734574978,
+        "center": {
+          "x": 56.495,
+          "y": 55.065
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-07-01",
+          "pitcher": "623352",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "69.8",
+          "hc_y": "45.53",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "TOR",
+          "game_pk": "744914"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676254",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "53.72",
+          "hc_y": "61.06",
+          "launch_angle": "24",
+          "launch_speed": "101.2",
+          "home_team": "SF",
+          "game_pk": "745316"
+        },
+        {
+          "game_date": "2024-07-10",
+          "pitcher": "657277",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "64.94",
+          "hc_y": "55.56",
+          "launch_angle": "28",
+          "launch_speed": "96.6",
+          "home_team": "SF",
+          "game_pk": "745318"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "542881",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "41.83",
+          "hc_y": "66.65",
+          "launch_angle": "29",
+          "launch_speed": "98.9",
+          "home_team": "LAA",
+          "game_pk": "746188"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "664747",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "71.16",
+          "hc_y": "43.48",
+          "launch_angle": "30",
+          "launch_speed": "101",
+          "home_team": "TOR",
+          "game_pk": "744898"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "607259",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "42.36",
+          "hc_y": "61.68",
+          "launch_angle": "25",
+          "launch_speed": "101.6",
+          "home_team": "TOR",
+          "game_pk": "744893"
+        }
+      ],
+      "similarity_score": 81.58666855925502
+    }
+  ],
+  "7": [
+    {
+      "batter_id": "676391",
+      "circle": {
+        "radius": 18.688885734574978,
+        "center": {
+          "x": 56.495,
+          "y": 55.065
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "594902",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "57.37",
+          "hc_y": "55.81",
+          "launch_angle": "26",
+          "launch_speed": "102.8",
+          "home_team": "TOR",
+          "game_pk": "744926"
+        },
+        {
+          "game_date": "2024-07-01",
+          "pitcher": "623352",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "69.8",
+          "hc_y": "45.53",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "TOR",
+          "game_pk": "744914"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676254",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "53.72",
+          "hc_y": "61.06",
+          "launch_angle": "24",
+          "launch_speed": "101.2",
+          "home_team": "SF",
+          "game_pk": "745316"
+        },
+        {
+          "game_date": "2024-07-10",
+          "pitcher": "657277",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "64.94",
+          "hc_y": "55.56",
+          "launch_angle": "28",
+          "launch_speed": "96.6",
+          "home_team": "SF",
+          "game_pk": "745318"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "542881",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "41.83",
+          "hc_y": "66.65",
+          "launch_angle": "29",
+          "launch_speed": "98.9",
+          "home_team": "LAA",
+          "game_pk": "746188"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "664747",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "71.16",
+          "hc_y": "43.48",
+          "launch_angle": "30",
+          "launch_speed": "101",
+          "home_team": "TOR",
+          "game_pk": "744898"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "607259",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "42.36",
+          "hc_y": "61.68",
+          "launch_angle": "25",
+          "launch_speed": "101.6",
+          "home_team": "TOR",
+          "game_pk": "744893"
+        }
+      ],
+      "similarity_score": 80.9215705757037
+    },
+    {
+      "batter_id": "605141",
+      "circle": {
+        "radius": 16.963615977644427,
+        "center": {
+          "x": 60.664739716034056,
+          "y": 51.719936155703735
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-25",
+          "pitcher": "663992",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "77.58",
+          "hc_y": "50.44",
+          "launch_angle": "26",
+          "launch_speed": "99.8",
+          "home_team": "LAD",
+          "game_pk": "746106"
+        },
+        {
+          "game_date": "2024-08-31",
+          "pitcher": "518876",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "52.61",
+          "hc_y": "54.61",
+          "launch_angle": "36",
+          "launch_speed": "101.1",
+          "home_team": "AZ",
+          "game_pk": "747158"
+        },
+        {
+          "game_date": "2024-09-03",
+          "pitcher": "672710",
+          "outs_when_up": "2",
+          "inning": "10",
+          "hc_x": "43.9",
+          "hc_y": "49.13",
+          "launch_angle": "27",
+          "launch_speed": "104.4",
+          "home_team": "LAA",
+          "game_pk": "746185"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605130",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "51.65",
+          "hc_y": "66.09",
+          "launch_angle": "36",
+          "launch_speed": "97.2",
+          "home_team": "LAD",
+          "game_pk": "746099"
+        },
+        {
+          "game_date": "2024-09-09",
+          "pitcher": "592767",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "50.15",
+          "hc_y": "62.42",
+          "launch_angle": "31",
+          "launch_speed": "98.5",
+          "home_team": "LAD",
+          "game_pk": "746101"
+        },
+        {
+          "game_date": "2024-09-21",
+          "pitcher": "615698",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "68.08",
+          "hc_y": "51.98",
+          "launch_angle": "29",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746096"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "678020",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "52.73",
+          "hc_y": "63.95",
+          "launch_angle": "36",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746092"
+        }
+      ],
+      "similarity_score": 78.89894307263138
+    },
+    {
+      "batter_id": "663837",
+      "circle": {
+        "radius": 20.992743546934392,
+        "center": {
+          "x": 37.9197525243905,
+          "y": 69.60025914305479
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-05",
+          "pitcher": "676664",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "40.18",
+          "hc_y": "82.04",
+          "launch_angle": "19",
+          "launch_speed": "107.1",
+          "home_team": "DET",
+          "game_pk": "746497"
+        },
+        {
+          "game_date": "2024-04-27",
+          "pitcher": "608717",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "57.65",
+          "hc_y": "62.43",
+          "launch_angle": "14",
+          "launch_speed": "110.7",
+          "home_team": "DET",
+          "game_pk": "746484"
+        },
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "571945",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "46.91",
+          "hc_y": "50.63",
+          "launch_angle": "23",
+          "launch_speed": "106.5",
+          "home_team": "DET",
+          "game_pk": "746478"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "647315",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "28.36",
+          "hc_y": "88.29",
+          "launch_angle": "24",
+          "launch_speed": "99.7",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "605447",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "47.18",
+          "hc_y": "52.87",
+          "launch_angle": "27",
+          "launch_speed": "105.9",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "683003",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "30.88",
+          "hc_y": "81.13",
+          "launch_angle": "23",
+          "launch_speed": "102.6",
+          "home_team": "DET",
+          "game_pk": "746467"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "694973",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "52.24",
+          "hc_y": "67.31",
+          "launch_angle": "31",
+          "launch_speed": "101.6",
+          "home_team": "DET",
+          "game_pk": "746468"
+        }
+      ],
+      "similarity_score": 78.78664712400779
+    },
+    {
+      "batter_id": "656775",
+      "circle": {
+        "radius": 19.679806909621846,
+        "center": {
+          "x": 218.32,
+          "y": 86.17
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-14",
+          "pitcher": "607067",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "218.98",
+          "hc_y": "67.82",
+          "launch_angle": "29",
+          "launch_speed": "101",
+          "home_team": "BAL",
+          "game_pk": "747056"
+        },
+        {
+          "game_date": "2024-04-15",
+          "pitcher": "686973",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "228.2",
+          "hc_y": "103.19",
+          "launch_angle": "37",
+          "launch_speed": "95",
+          "home_team": "BAL",
+          "game_pk": "747053"
+        },
+        {
+          "game_date": "2024-04-17",
+          "pitcher": "643377",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "208.44",
+          "hc_y": "69.15",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "BAL",
+          "game_pk": "747049"
+        },
+        {
+          "game_date": "2024-04-26",
+          "pitcher": "548389",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "225.28",
+          "hc_y": "82.03",
+          "launch_angle": "26",
+          "launch_speed": "100.6",
+          "home_team": "BAL",
+          "game_pk": "747050"
+        },
+        {
+          "game_date": "2024-06-20",
+          "pitcher": "661563",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "208.01",
+          "hc_y": "82.53",
+          "launch_angle": "30",
+          "launch_speed": "98.6",
+          "home_team": "NYY",
+          "game_pk": "745734"
+        },
+        {
+          "game_date": "2024-06-26",
+          "pitcher": "675540",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "232.79",
+          "hc_y": "86.44",
+          "launch_angle": "38",
+          "launch_speed": "100.7",
+          "home_team": "BAL",
+          "game_pk": "747019"
+        },
+        {
+          "game_date": "2024-06-27",
+          "pitcher": "592351",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "224.84",
+          "hc_y": "80.52",
+          "launch_angle": "31",
+          "launch_speed": "96.9",
+          "home_team": "BAL",
+          "game_pk": "747020"
+        }
+      ],
+      "similarity_score": 78.00330813061177
+    },
+    {
+      "batter_id": "667670",
+      "circle": {
+        "radius": 13.816449865944161,
+        "center": {
+          "x": 60.617523587425865,
+          "y": 46.51698839370091
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "689981",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "68.28",
+          "hc_y": "35.02",
+          "launch_angle": "27",
+          "launch_speed": "108.7",
+          "home_team": "OAK",
+          "game_pk": "745627"
+        },
+        {
+          "game_date": "2024-08-10",
+          "pitcher": "684320",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "68.18",
+          "hc_y": "58.08",
+          "launch_angle": "40",
+          "launch_speed": "106.5",
+          "home_team": "TOR",
+          "game_pk": "744897"
+        },
+        {
+          "game_date": "2024-08-24",
+          "pitcher": "607067",
+          "outs_when_up": "0",
+          "inning": "6",
+          "hc_x": "69.59",
+          "hc_y": "46.35",
+          "launch_angle": "33",
+          "launch_speed": "104.3",
+          "home_team": "OAK",
+          "game_pk": "745617"
+        },
+        {
+          "game_date": "2024-08-28",
+          "pitcher": "543391",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "47.47",
+          "hc_y": "42.27",
+          "launch_angle": "31",
+          "launch_speed": "109.1",
+          "home_team": "CIN",
+          "game_pk": "746672"
+        },
+        {
+          "game_date": "2024-08-30",
+          "pitcher": "592351",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "53.01",
+          "hc_y": "46.76",
+          "launch_angle": "30",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744969"
+        },
+        {
+          "game_date": "2024-08-30",
+          "pitcher": "641540",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "67.4",
+          "hc_y": "49.3",
+          "launch_angle": "35",
+          "launch_speed": "104.4",
+          "home_team": "TEX",
+          "game_pk": "744969"
+        },
+        {
+          "game_date": "2024-09-05",
+          "pitcher": "693433",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "61.25",
+          "hc_y": "57.33",
+          "launch_angle": "28",
+          "launch_speed": "99.5",
+          "home_team": "OAK",
+          "game_pk": "745612"
+        }
+      ],
+      "similarity_score": 76.64899397908924
+    }
+  ],
+  "8": [
+    {
+      "batter_id": "676391",
+      "circle": {
+        "radius": 20.145645311083978,
+        "center": {
+          "x": 56.135,
+          "y": 56.89999999999999
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "594902",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "57.37",
+          "hc_y": "55.81",
+          "launch_angle": "26",
+          "launch_speed": "102.8",
+          "home_team": "TOR",
+          "game_pk": "744926"
+        },
+        {
+          "game_date": "2024-07-01",
+          "pitcher": "623352",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "69.8",
+          "hc_y": "45.53",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "TOR",
+          "game_pk": "744914"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676254",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "53.72",
+          "hc_y": "61.06",
+          "launch_angle": "24",
+          "launch_speed": "101.2",
+          "home_team": "SF",
+          "game_pk": "745316"
+        },
+        {
+          "game_date": "2024-07-10",
+          "pitcher": "657277",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "64.94",
+          "hc_y": "55.56",
+          "launch_angle": "28",
+          "launch_speed": "96.6",
+          "home_team": "SF",
+          "game_pk": "745318"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "542881",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "41.83",
+          "hc_y": "66.65",
+          "launch_angle": "29",
+          "launch_speed": "98.9",
+          "home_team": "LAA",
+          "game_pk": "746188"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "664747",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "71.16",
+          "hc_y": "43.48",
+          "launch_angle": "30",
+          "launch_speed": "101",
+          "home_team": "TOR",
+          "game_pk": "744898"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "607259",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "42.36",
+          "hc_y": "61.68",
+          "launch_angle": "25",
+          "launch_speed": "101.6",
+          "home_team": "TOR",
+          "game_pk": "744893"
+        },
+        {
+          "game_date": "2024-08-22",
+          "pitcher": "657508",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "41.11",
+          "hc_y": "70.32",
+          "launch_angle": "34",
+          "launch_speed": "98.3",
+          "home_team": "TOR",
+          "game_pk": "744894"
+        }
+      ],
+      "similarity_score": 77.0448555929996
+    },
+    {
+      "batter_id": "663837",
+      "circle": {
+        "radius": 20.992743546934392,
+        "center": {
+          "x": 37.9197525243905,
+          "y": 69.60025914305479
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-05",
+          "pitcher": "676664",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "40.18",
+          "hc_y": "82.04",
+          "launch_angle": "19",
+          "launch_speed": "107.1",
+          "home_team": "DET",
+          "game_pk": "746497"
+        },
+        {
+          "game_date": "2024-04-27",
+          "pitcher": "608717",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "57.65",
+          "hc_y": "62.43",
+          "launch_angle": "14",
+          "launch_speed": "110.7",
+          "home_team": "DET",
+          "game_pk": "746484"
+        },
+        {
+          "game_date": "2024-05-01",
+          "pitcher": "571945",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "46.91",
+          "hc_y": "50.63",
+          "launch_angle": "23",
+          "launch_speed": "106.5",
+          "home_team": "DET",
+          "game_pk": "746478"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "647315",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "28.36",
+          "hc_y": "88.29",
+          "launch_angle": "24",
+          "launch_speed": "99.7",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-26",
+          "pitcher": "605447",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "47.18",
+          "hc_y": "52.87",
+          "launch_angle": "27",
+          "launch_speed": "105.9",
+          "home_team": "DET",
+          "game_pk": "746469"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "683003",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "30.88",
+          "hc_y": "81.13",
+          "launch_angle": "23",
+          "launch_speed": "102.6",
+          "home_team": "DET",
+          "game_pk": "746467"
+        },
+        {
+          "game_date": "2024-05-29",
+          "pitcher": "694973",
+          "outs_when_up": "2",
+          "inning": "6",
+          "hc_x": "52.24",
+          "hc_y": "67.31",
+          "launch_angle": "31",
+          "launch_speed": "101.6",
+          "home_team": "DET",
+          "game_pk": "746468"
+        },
+        {
+          "game_date": "2024-06-12",
+          "pitcher": "663623",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "45.02",
+          "hc_y": "76.4",
+          "launch_angle": "26",
+          "launch_speed": "94.6",
+          "home_team": "DET",
+          "game_pk": "746462"
+        }
+      ],
+      "similarity_score": 76.14808158560373
+    },
+    {
+      "batter_id": "605141",
+      "circle": {
+        "radius": 18.610971226671648,
+        "center": {
+          "x": 59.864999999999995,
+          "y": 56.144999999999996
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-16",
+          "pitcher": "571945",
+          "outs_when_up": "0",
+          "inning": "6",
+          "hc_x": "42.15",
+          "hc_y": "61.85",
+          "launch_angle": "35",
+          "launch_speed": "101.7",
+          "home_team": "STL",
+          "game_pk": "745144"
+        },
+        {
+          "game_date": "2024-08-25",
+          "pitcher": "663992",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "77.58",
+          "hc_y": "50.44",
+          "launch_angle": "26",
+          "launch_speed": "99.8",
+          "home_team": "LAD",
+          "game_pk": "746106"
+        },
+        {
+          "game_date": "2024-08-31",
+          "pitcher": "518876",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "52.61",
+          "hc_y": "54.61",
+          "launch_angle": "36",
+          "launch_speed": "101.1",
+          "home_team": "AZ",
+          "game_pk": "747158"
+        },
+        {
+          "game_date": "2024-09-03",
+          "pitcher": "672710",
+          "outs_when_up": "2",
+          "inning": "10",
+          "hc_x": "43.9",
+          "hc_y": "49.13",
+          "launch_angle": "27",
+          "launch_speed": "104.4",
+          "home_team": "LAA",
+          "game_pk": "746185"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605130",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "51.65",
+          "hc_y": "66.09",
+          "launch_angle": "36",
+          "launch_speed": "97.2",
+          "home_team": "LAD",
+          "game_pk": "746099"
+        },
+        {
+          "game_date": "2024-09-09",
+          "pitcher": "592767",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "50.15",
+          "hc_y": "62.42",
+          "launch_angle": "31",
+          "launch_speed": "98.5",
+          "home_team": "LAD",
+          "game_pk": "746101"
+        },
+        {
+          "game_date": "2024-09-21",
+          "pitcher": "615698",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "68.08",
+          "hc_y": "51.98",
+          "launch_angle": "29",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746096"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "678020",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "52.73",
+          "hc_y": "63.95",
+          "launch_angle": "36",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746092"
+        }
+      ],
+      "similarity_score": 76.1260191822189
+    },
+    {
+      "batter_id": "642350",
+      "circle": {
+        "radius": 25.33742932895916,
+        "center": {
+          "x": 54.515,
+          "y": 54.03
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-01",
+          "pitcher": "641540",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "50.72",
+          "hc_y": "61.5",
+          "launch_angle": "22",
+          "launch_speed": "105.3",
+          "home_team": "TB",
+          "game_pk": "745109"
+        },
+        {
+          "game_date": "2024-04-30",
+          "pitcher": "642547",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "53.81",
+          "hc_y": "30.05",
+          "launch_angle": "31",
+          "launch_speed": "110",
+          "home_team": "MIL",
+          "game_pk": "745997"
+        },
+        {
+          "game_date": "2024-05-12",
+          "pitcher": "657571",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "63.7",
+          "hc_y": "44.56",
+          "launch_angle": "29",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745092"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "663687",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "40.28",
+          "hc_y": "47.49",
+          "launch_angle": "33",
+          "launch_speed": "109",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "695243",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "31.03",
+          "hc_y": "63.54",
+          "launch_angle": "34",
+          "launch_speed": "105",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-06-07",
+          "pitcher": "608344",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "78",
+          "hc_y": "44.52",
+          "launch_angle": "34",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745083"
+        },
+        {
+          "game_date": "2024-06-12",
+          "pitcher": "665871",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "60.88",
+          "hc_y": "35.04",
+          "launch_angle": "31",
+          "launch_speed": "104.8",
+          "home_team": "TB",
+          "game_pk": "745079"
+        },
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "628452",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "71.57",
+          "hc_y": "39.5",
+          "launch_angle": "23",
+          "launch_speed": "105.7",
+          "home_team": "ATL",
+          "game_pk": "747109"
+        }
+      ],
+      "similarity_score": 73.43387313284335
+    },
+    {
+      "batter_id": "643217",
+      "circle": {
+        "radius": 23.36395728467248,
+        "center": {
+          "x": 218.59,
+          "y": 75.58
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "686613",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "224.49",
+          "hc_y": "92.71",
+          "launch_angle": "31",
+          "launch_speed": "98.8",
+          "home_team": "CWS",
+          "game_pk": "746781"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "676272",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "237.67",
+          "hc_y": "81.88",
+          "launch_angle": "27",
+          "launch_speed": "105",
+          "home_team": "CWS",
+          "game_pk": "746775"
+        },
+        {
+          "game_date": "2024-07-14",
+          "pitcher": "656605",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "217.46",
+          "hc_y": "71.9",
+          "launch_angle": "30",
+          "launch_speed": "101.7",
+          "home_team": "CWS",
+          "game_pk": "746769"
+        },
+        {
+          "game_date": "2024-07-23",
+          "pitcher": "622250",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "237.02",
+          "hc_y": "89.94",
+          "launch_angle": "31",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744985"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "660896",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "214.98",
+          "hc_y": "82.82",
+          "launch_angle": "28",
+          "launch_speed": "97.8",
+          "home_team": "MIN",
+          "game_pk": "745879"
+        },
+        {
+          "game_date": "2024-08-06",
+          "pitcher": "548389",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "229.14",
+          "hc_y": "91.3",
+          "launch_angle": "34",
+          "launch_speed": "98.4",
+          "home_team": "OAK",
+          "game_pk": "745629"
+        },
+        {
+          "game_date": "2024-08-07",
+          "pitcher": "683155",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "200.16",
+          "hc_y": "61.22",
+          "launch_angle": "27",
+          "launch_speed": "102.9",
+          "home_team": "OAK",
+          "game_pk": "745630"
+        },
+        {
+          "game_date": "2024-08-09",
+          "pitcher": "592791",
+          "outs_when_up": "0",
+          "inning": "5",
+          "hc_x": "208.73",
+          "hc_y": "81.05",
+          "launch_angle": "34",
+          "launch_speed": "95",
+          "home_team": "CWS",
+          "game_pk": "746760"
+        }
+      ],
+      "similarity_score": 73.09069514355168
+    }
+  ],
+  "9": [
+    {
+      "batter_id": "676391",
+      "circle": {
+        "radius": 20.145645311083978,
+        "center": {
+          "x": 56.135,
+          "y": 56.89999999999999
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "594902",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "57.37",
+          "hc_y": "55.81",
+          "launch_angle": "26",
+          "launch_speed": "102.8",
+          "home_team": "TOR",
+          "game_pk": "744926"
+        },
+        {
+          "game_date": "2024-07-01",
+          "pitcher": "623352",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "69.8",
+          "hc_y": "45.53",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "TOR",
+          "game_pk": "744914"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676254",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "53.72",
+          "hc_y": "61.06",
+          "launch_angle": "24",
+          "launch_speed": "101.2",
+          "home_team": "SF",
+          "game_pk": "745316"
+        },
+        {
+          "game_date": "2024-07-10",
+          "pitcher": "657277",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "64.94",
+          "hc_y": "55.56",
+          "launch_angle": "28",
+          "launch_speed": "96.6",
+          "home_team": "SF",
+          "game_pk": "745318"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "542881",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "41.83",
+          "hc_y": "66.65",
+          "launch_angle": "29",
+          "launch_speed": "98.9",
+          "home_team": "LAA",
+          "game_pk": "746188"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "664747",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "71.16",
+          "hc_y": "43.48",
+          "launch_angle": "30",
+          "launch_speed": "101",
+          "home_team": "TOR",
+          "game_pk": "744898"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "607259",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "42.36",
+          "hc_y": "61.68",
+          "launch_angle": "25",
+          "launch_speed": "101.6",
+          "home_team": "TOR",
+          "game_pk": "744893"
+        },
+        {
+          "game_date": "2024-08-22",
+          "pitcher": "657508",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "41.11",
+          "hc_y": "70.32",
+          "launch_angle": "34",
+          "launch_speed": "98.3",
+          "home_team": "TOR",
+          "game_pk": "744894"
+        },
+        {
+          "game_date": "2024-09-01",
+          "pitcher": "641927",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "63.88",
+          "hc_y": "42.79",
+          "launch_angle": "30",
+          "launch_speed": "100.9",
+          "home_team": "MIN",
+          "game_pk": "745861"
+        }
+      ],
+      "similarity_score": 75.31239186416937
+    },
+    {
+      "batter_id": "605141",
+      "circle": {
+        "radius": 19.84638890566545,
+        "center": {
+          "x": 60.33262000899176,
+          "y": 60.25870847111219
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-08-12",
+          "pitcher": "642547",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "43.67",
+          "hc_y": "71.04",
+          "launch_angle": "36",
+          "launch_speed": "96.9",
+          "home_team": "MIL",
+          "game_pk": "745953"
+        },
+        {
+          "game_date": "2024-08-16",
+          "pitcher": "571945",
+          "outs_when_up": "0",
+          "inning": "6",
+          "hc_x": "42.15",
+          "hc_y": "61.85",
+          "launch_angle": "35",
+          "launch_speed": "101.7",
+          "home_team": "STL",
+          "game_pk": "745144"
+        },
+        {
+          "game_date": "2024-08-25",
+          "pitcher": "663992",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "77.58",
+          "hc_y": "50.44",
+          "launch_angle": "26",
+          "launch_speed": "99.8",
+          "home_team": "LAD",
+          "game_pk": "746106"
+        },
+        {
+          "game_date": "2024-08-31",
+          "pitcher": "518876",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "52.61",
+          "hc_y": "54.61",
+          "launch_angle": "36",
+          "launch_speed": "101.1",
+          "home_team": "AZ",
+          "game_pk": "747158"
+        },
+        {
+          "game_date": "2024-09-03",
+          "pitcher": "672710",
+          "outs_when_up": "2",
+          "inning": "10",
+          "hc_x": "43.9",
+          "hc_y": "49.13",
+          "launch_angle": "27",
+          "launch_speed": "104.4",
+          "home_team": "LAA",
+          "game_pk": "746185"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605130",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "51.65",
+          "hc_y": "66.09",
+          "launch_angle": "36",
+          "launch_speed": "97.2",
+          "home_team": "LAD",
+          "game_pk": "746099"
+        },
+        {
+          "game_date": "2024-09-09",
+          "pitcher": "592767",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "50.15",
+          "hc_y": "62.42",
+          "launch_angle": "31",
+          "launch_speed": "98.5",
+          "home_team": "LAD",
+          "game_pk": "746101"
+        },
+        {
+          "game_date": "2024-09-21",
+          "pitcher": "615698",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "68.08",
+          "hc_y": "51.98",
+          "launch_angle": "29",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746096"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "678020",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "52.73",
+          "hc_y": "63.95",
+          "launch_angle": "36",
+          "launch_speed": "99.2",
+          "home_team": "LAD",
+          "game_pk": "746092"
+        }
+      ],
+      "similarity_score": 73.74082030070397
+    },
+    {
+      "batter_id": "643217",
+      "circle": {
+        "radius": 26.459121773029434,
+        "center": {
+          "x": 217.25,
+          "y": 72.355
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-30",
+          "pitcher": "663485",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "210.62",
+          "hc_y": "68.37",
+          "launch_angle": "31",
+          "launch_speed": "98.6",
+          "home_team": "CWS",
+          "game_pk": "746806"
+        },
+        {
+          "game_date": "2024-06-01",
+          "pitcher": "688107",
+          "outs_when_up": "0",
+          "inning": "3",
+          "hc_x": "197.48",
+          "hc_y": "54.77",
+          "launch_angle": "33",
+          "launch_speed": "99.4",
+          "home_team": "MIL",
+          "game_pk": "745980"
+        },
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "686613",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "224.49",
+          "hc_y": "92.71",
+          "launch_angle": "31",
+          "launch_speed": "98.8",
+          "home_team": "CWS",
+          "game_pk": "746781"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "676272",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "237.67",
+          "hc_y": "81.88",
+          "launch_angle": "27",
+          "launch_speed": "105",
+          "home_team": "CWS",
+          "game_pk": "746775"
+        },
+        {
+          "game_date": "2024-07-14",
+          "pitcher": "656605",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "217.46",
+          "hc_y": "71.9",
+          "launch_angle": "30",
+          "launch_speed": "101.7",
+          "home_team": "CWS",
+          "game_pk": "746769"
+        },
+        {
+          "game_date": "2024-07-23",
+          "pitcher": "622250",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "237.02",
+          "hc_y": "89.94",
+          "launch_angle": "31",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744985"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "660896",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "214.98",
+          "hc_y": "82.82",
+          "launch_angle": "28",
+          "launch_speed": "97.8",
+          "home_team": "MIN",
+          "game_pk": "745879"
+        },
+        {
+          "game_date": "2024-08-06",
+          "pitcher": "548389",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "229.14",
+          "hc_y": "91.3",
+          "launch_angle": "34",
+          "launch_speed": "98.4",
+          "home_team": "OAK",
+          "game_pk": "745629"
+        },
+        {
+          "game_date": "2024-08-07",
+          "pitcher": "683155",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "200.16",
+          "hc_y": "61.22",
+          "launch_angle": "27",
+          "launch_speed": "102.9",
+          "home_team": "OAK",
+          "game_pk": "745630"
+        }
+      ],
+      "similarity_score": 71.41155500333868
+    },
+    {
+      "batter_id": "642350",
+      "circle": {
+        "radius": 25.33742932895916,
+        "center": {
+          "x": 54.515,
+          "y": 54.03
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-01",
+          "pitcher": "641540",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "50.72",
+          "hc_y": "61.5",
+          "launch_angle": "22",
+          "launch_speed": "105.3",
+          "home_team": "TB",
+          "game_pk": "745109"
+        },
+        {
+          "game_date": "2024-04-30",
+          "pitcher": "642547",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "53.81",
+          "hc_y": "30.05",
+          "launch_angle": "31",
+          "launch_speed": "110",
+          "home_team": "MIL",
+          "game_pk": "745997"
+        },
+        {
+          "game_date": "2024-05-12",
+          "pitcher": "657571",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "63.7",
+          "hc_y": "44.56",
+          "launch_angle": "29",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745092"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "663687",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "40.28",
+          "hc_y": "47.49",
+          "launch_angle": "33",
+          "launch_speed": "109",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "695243",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "31.03",
+          "hc_y": "63.54",
+          "launch_angle": "34",
+          "launch_speed": "105",
+          "home_team": "TB",
+          "game_pk": "745081"
+        },
+        {
+          "game_date": "2024-06-07",
+          "pitcher": "608344",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "78",
+          "hc_y": "44.52",
+          "launch_angle": "34",
+          "launch_speed": "105.1",
+          "home_team": "TB",
+          "game_pk": "745083"
+        },
+        {
+          "game_date": "2024-06-12",
+          "pitcher": "665871",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "60.88",
+          "hc_y": "35.04",
+          "launch_angle": "31",
+          "launch_speed": "104.8",
+          "home_team": "TB",
+          "game_pk": "745079"
+        },
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "628452",
+          "outs_when_up": "1",
+          "inning": "9",
+          "hc_x": "71.57",
+          "hc_y": "39.5",
+          "launch_angle": "23",
+          "launch_speed": "105.7",
+          "home_team": "ATL",
+          "game_pk": "747109"
+        },
+        {
+          "game_date": "2024-06-20",
+          "pitcher": "543351",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "35.76",
+          "hc_y": "62.09",
+          "launch_angle": "30",
+          "launch_speed": "102.9",
+          "home_team": "MIN",
+          "game_pk": "745889"
+        }
+      ],
+      "similarity_score": 70.09817839546673
+    },
+    {
+      "batter_id": "681146",
+      "circle": {
+        "radius": 25.42556685700439,
+        "center": {
+          "x": 39.835,
+          "y": 73.955
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-07-31",
+          "pitcher": "671737",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "55.49",
+          "hc_y": "83.62",
+          "launch_angle": "33",
+          "launch_speed": "98.8",
+          "home_team": "TB",
+          "game_pk": "745061"
+        },
+        {
+          "game_date": "2024-08-02",
+          "pitcher": "680885",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "51.32",
+          "hc_y": "55.12",
+          "launch_angle": "34",
+          "launch_speed": "100.1",
+          "home_team": "ATL",
+          "game_pk": "747089"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "592426",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "25.45",
+          "hc_y": "94.92",
+          "launch_angle": "27",
+          "launch_speed": "98.3",
+          "home_team": "ATL",
+          "game_pk": "747088"
+        },
+        {
+          "game_date": "2024-08-09",
+          "pitcher": "527048",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "32.99",
+          "hc_y": "68.44",
+          "launch_angle": "25",
+          "launch_speed": "103.9",
+          "home_team": "MIA",
+          "game_pk": "746032"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "663969",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "42.19",
+          "hc_y": "66.36",
+          "launch_angle": "22",
+          "launch_speed": "103.5",
+          "home_team": "PHI",
+          "game_pk": "745544"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605400",
+          "outs_when_up": "0",
+          "inning": "5",
+          "hc_x": "22.78",
+          "hc_y": "91.14",
+          "launch_angle": "27",
+          "launch_speed": "100.7",
+          "home_team": "MIA",
+          "game_pk": "746018"
+        },
+        {
+          "game_date": "2024-09-15",
+          "pitcher": "674285",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "54.22",
+          "hc_y": "52.99",
+          "launch_angle": "24",
+          "launch_speed": "103.8",
+          "home_team": "WSH",
+          "game_pk": "744801"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "656550",
+          "outs_when_up": "2",
+          "inning": "2",
+          "hc_x": "25.28",
+          "hc_y": "74.02",
+          "launch_angle": "31",
+          "launch_speed": "100.4",
+          "home_team": "MIA",
+          "game_pk": "746010"
+        },
+        {
+          "game_date": "2024-09-24",
+          "pitcher": "641927",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "28.49",
+          "hc_y": "64.28",
+          "launch_angle": "27",
+          "launch_speed": "104.3",
+          "home_team": "MIN",
+          "game_pk": "745851"
+        }
+      ],
+      "similarity_score": 68.73359186295684
+    }
+  ],
+  "10": [
+    {
+      "batter_id": "643217",
+      "circle": {
+        "radius": 23.36395728467248,
+        "center": {
+          "x": 218.59,
+          "y": 75.58
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-06-19",
+          "pitcher": "686613",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "224.49",
+          "hc_y": "92.71",
+          "launch_angle": "31",
+          "launch_speed": "98.8",
+          "home_team": "CWS",
+          "game_pk": "746781"
+        },
+        {
+          "game_date": "2024-06-25",
+          "pitcher": "676272",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "237.67",
+          "hc_y": "81.88",
+          "launch_angle": "27",
+          "launch_speed": "105",
+          "home_team": "CWS",
+          "game_pk": "746775"
+        },
+        {
+          "game_date": "2024-07-14",
+          "pitcher": "656605",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "217.46",
+          "hc_y": "71.9",
+          "launch_angle": "30",
+          "launch_speed": "101.7",
+          "home_team": "CWS",
+          "game_pk": "746769"
+        },
+        {
+          "game_date": "2024-07-23",
+          "pitcher": "622250",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "237.02",
+          "hc_y": "89.94",
+          "launch_angle": "31",
+          "launch_speed": "103.6",
+          "home_team": "TEX",
+          "game_pk": "744985"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "660896",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "214.98",
+          "hc_y": "82.82",
+          "launch_angle": "28",
+          "launch_speed": "97.8",
+          "home_team": "MIN",
+          "game_pk": "745879"
+        },
+        {
+          "game_date": "2024-08-06",
+          "pitcher": "548389",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "229.14",
+          "hc_y": "91.3",
+          "launch_angle": "34",
+          "launch_speed": "98.4",
+          "home_team": "OAK",
+          "game_pk": "745629"
+        },
+        {
+          "game_date": "2024-08-07",
+          "pitcher": "683155",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "200.16",
+          "hc_y": "61.22",
+          "launch_angle": "27",
+          "launch_speed": "102.9",
+          "home_team": "OAK",
+          "game_pk": "745630"
+        },
+        {
+          "game_date": "2024-08-09",
+          "pitcher": "592791",
+          "outs_when_up": "0",
+          "inning": "5",
+          "hc_x": "208.73",
+          "hc_y": "81.05",
+          "launch_angle": "34",
+          "launch_speed": "95",
+          "home_team": "CWS",
+          "game_pk": "746760"
+        },
+        {
+          "game_date": "2024-08-09",
+          "pitcher": "592767",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "203.33",
+          "hc_y": "74.09",
+          "launch_angle": "38",
+          "launch_speed": "99.7",
+          "home_team": "CWS",
+          "game_pk": "746760"
+        },
+        {
+          "game_date": "2024-08-26",
+          "pitcher": "689225",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "213.79",
+          "hc_y": "69.49",
+          "launch_angle": "34",
+          "launch_speed": "102.5",
+          "home_team": "CWS",
+          "game_pk": "746753"
+        }
+      ],
+      "similarity_score": 69.63683531847511
+    },
+    {
+      "batter_id": "608324",
+      "circle": {
+        "radius": 26.620873858684654,
+        "center": {
+          "x": 35.375,
+          "y": 81.05
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-13",
+          "pitcher": "548389",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "41.46",
+          "hc_y": "70.31",
+          "launch_angle": "30",
+          "launch_speed": "98.3",
+          "home_team": "HOU",
+          "game_pk": "746393"
+        },
+        {
+          "game_date": "2024-05-13",
+          "pitcher": "687765",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "41.79",
+          "hc_y": "67.4",
+          "launch_angle": "23",
+          "launch_speed": "104.4",
+          "home_team": "HOU",
+          "game_pk": "746393"
+        },
+        {
+          "game_date": "2024-05-14",
+          "pitcher": "676664",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "37.78",
+          "hc_y": "77.85",
+          "launch_angle": "24",
+          "launch_speed": "101.4",
+          "home_team": "HOU",
+          "game_pk": "746396"
+        },
+        {
+          "game_date": "2024-05-28",
+          "pitcher": "622491",
+          "outs_when_up": "1",
+          "inning": "4",
+          "hc_x": "38.45",
+          "hc_y": "85.6",
+          "launch_angle": "34",
+          "launch_speed": "94.6",
+          "home_team": "SEA",
+          "game_pk": "745258"
+        },
+        {
+          "game_date": "2024-05-30",
+          "pitcher": "669302",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "42.36",
+          "hc_y": "80.68",
+          "launch_angle": "20",
+          "launch_speed": "102.8",
+          "home_team": "SEA",
+          "game_pk": "745249"
+        },
+        {
+          "game_date": "2024-05-31",
+          "pitcher": "641154",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "21.42",
+          "hc_y": "103.72",
+          "launch_angle": "36",
+          "launch_speed": "96.2",
+          "home_team": "HOU",
+          "game_pk": "746387"
+        },
+        {
+          "game_date": "2024-06-02",
+          "pitcher": "680573",
+          "outs_when_up": "1",
+          "inning": "3",
+          "hc_x": "49.33",
+          "hc_y": "58.38",
+          "launch_angle": "29",
+          "launch_speed": "102",
+          "home_team": "HOU",
+          "game_pk": "746383"
+        },
+        {
+          "game_date": "2024-06-03",
+          "pitcher": "668941",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "28.76",
+          "hc_y": "61.39",
+          "launch_angle": "27",
+          "launch_speed": "105.8",
+          "home_team": "HOU",
+          "game_pk": "746382"
+        },
+        {
+          "game_date": "2024-07-05",
+          "pitcher": "681892",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "16.5",
+          "hc_y": "76.1",
+          "launch_angle": "31",
+          "launch_speed": "102.5",
+          "home_team": "MIN",
+          "game_pk": "745884"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "623211",
+          "outs_when_up": "2",
+          "inning": "7",
+          "hc_x": "42.49",
+          "hc_y": "75.58",
+          "launch_angle": "36",
+          "launch_speed": "98.9",
+          "home_team": "HOU",
+          "game_pk": "746368"
+        }
+      ],
+      "similarity_score": 65.15195217783008
+    },
+    {
+      "batter_id": "676391",
+      "circle": {
+        "radius": 33.479905913846295,
+        "center": {
+          "x": 46.56,
+          "y": 66.19
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-04-21",
+          "pitcher": "605397",
+          "outs_when_up": "0",
+          "inning": "3",
+          "hc_x": "21.96",
+          "hc_y": "88.9",
+          "launch_angle": "28",
+          "launch_speed": "99.8",
+          "home_team": "SD",
+          "game_pk": "745434"
+        },
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "594902",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "57.37",
+          "hc_y": "55.81",
+          "launch_angle": "26",
+          "launch_speed": "102.8",
+          "home_team": "TOR",
+          "game_pk": "744926"
+        },
+        {
+          "game_date": "2024-07-01",
+          "pitcher": "623352",
+          "outs_when_up": "2",
+          "inning": "9",
+          "hc_x": "69.8",
+          "hc_y": "45.53",
+          "launch_angle": "28",
+          "launch_speed": "102.6",
+          "home_team": "TOR",
+          "game_pk": "744914"
+        },
+        {
+          "game_date": "2024-07-09",
+          "pitcher": "676254",
+          "outs_when_up": "1",
+          "inning": "7",
+          "hc_x": "53.72",
+          "hc_y": "61.06",
+          "launch_angle": "24",
+          "launch_speed": "101.2",
+          "home_team": "SF",
+          "game_pk": "745316"
+        },
+        {
+          "game_date": "2024-07-10",
+          "pitcher": "657277",
+          "outs_when_up": "1",
+          "inning": "5",
+          "hc_x": "64.94",
+          "hc_y": "55.56",
+          "launch_angle": "28",
+          "launch_speed": "96.6",
+          "home_team": "SF",
+          "game_pk": "745318"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "542881",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "41.83",
+          "hc_y": "66.65",
+          "launch_angle": "29",
+          "launch_speed": "98.9",
+          "home_team": "LAA",
+          "game_pk": "746188"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "664747",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "71.16",
+          "hc_y": "43.48",
+          "launch_angle": "30",
+          "launch_speed": "101",
+          "home_team": "TOR",
+          "game_pk": "744898"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "607259",
+          "outs_when_up": "2",
+          "inning": "3",
+          "hc_x": "42.36",
+          "hc_y": "61.68",
+          "launch_angle": "25",
+          "launch_speed": "101.6",
+          "home_team": "TOR",
+          "game_pk": "744893"
+        },
+        {
+          "game_date": "2024-08-22",
+          "pitcher": "657508",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "41.11",
+          "hc_y": "70.32",
+          "launch_angle": "34",
+          "launch_speed": "98.3",
+          "home_team": "TOR",
+          "game_pk": "744894"
+        },
+        {
+          "game_date": "2024-09-01",
+          "pitcher": "641927",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "63.88",
+          "hc_y": "42.79",
+          "launch_angle": "30",
+          "launch_speed": "100.9",
+          "home_team": "MIN",
+          "game_pk": "745861"
+        }
+      ],
+      "similarity_score": 64.51435291868121
+    },
+    {
+      "batter_id": "668709",
+      "circle": {
+        "radius": 25.52909433013157,
+        "center": {
+          "x": 212.6414906837731,
+          "y": 74.25507254864526
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-05-24",
+          "pitcher": "434378",
+          "outs_when_up": "0",
+          "inning": "5",
+          "hc_x": "219.11",
+          "hc_y": "70.36",
+          "launch_angle": "25",
+          "launch_speed": "103.6",
+          "home_team": "OAK",
+          "game_pk": "745663"
+        },
+        {
+          "game_date": "2024-06-07",
+          "pitcher": "643338",
+          "outs_when_up": "0",
+          "inning": "9",
+          "hc_x": "219.54",
+          "hc_y": "82.18",
+          "launch_angle": "33",
+          "launch_speed": "100.8",
+          "home_team": "OAK",
+          "game_pk": "745655"
+        },
+        {
+          "game_date": "2024-06-16",
+          "pitcher": "663978",
+          "outs_when_up": "0",
+          "inning": "3",
+          "hc_x": "200",
+          "hc_y": "64.24",
+          "launch_angle": "34",
+          "launch_speed": "98.2",
+          "home_team": "MIN",
+          "game_pk": "745891"
+        },
+        {
+          "game_date": "2024-06-22",
+          "pitcher": "641927",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "237.42",
+          "hc_y": "80.4",
+          "launch_angle": "28",
+          "launch_speed": "107.4",
+          "home_team": "OAK",
+          "game_pk": "745644"
+        },
+        {
+          "game_date": "2024-07-19",
+          "pitcher": "519043",
+          "outs_when_up": "1",
+          "inning": "6",
+          "hc_x": "207.97",
+          "hc_y": "59.04",
+          "launch_angle": "21",
+          "launch_speed": "105.2",
+          "home_team": "OAK",
+          "game_pk": "745640"
+        },
+        {
+          "game_date": "2024-07-30",
+          "pitcher": "573124",
+          "outs_when_up": "0",
+          "inning": "8",
+          "hc_x": "229.01",
+          "hc_y": "86.8",
+          "launch_angle": "32",
+          "launch_speed": "97.3",
+          "home_team": "SF",
+          "game_pk": "745309"
+        },
+        {
+          "game_date": "2024-08-11",
+          "pitcher": "605135",
+          "outs_when_up": "0",
+          "inning": "1",
+          "hc_x": "191.49",
+          "hc_y": "59.96",
+          "launch_angle": "28",
+          "launch_speed": "97.1",
+          "home_team": "TOR",
+          "game_pk": "744895"
+        },
+        {
+          "game_date": "2024-08-15",
+          "pitcher": "500779",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "227.38",
+          "hc_y": "95.1",
+          "launch_angle": "21",
+          "launch_speed": "102.7",
+          "home_team": "NYM",
+          "game_pk": "745783"
+        },
+        {
+          "game_date": "2024-08-19",
+          "pitcher": "671737",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "199.31",
+          "hc_y": "59.96",
+          "launch_angle": "35",
+          "launch_speed": "102.6",
+          "home_team": "OAK",
+          "game_pk": "745620"
+        },
+        {
+          "game_date": "2024-08-21",
+          "pitcher": "686752",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "226.5",
+          "hc_y": "85.66",
+          "launch_angle": "30",
+          "launch_speed": "97.4",
+          "home_team": "OAK",
+          "game_pk": "745622"
+        }
+      ],
+      "similarity_score": 64.40778976419173
+    },
+    {
+      "batter_id": "681146",
+      "circle": {
+        "radius": 25.42556685700439,
+        "center": {
+          "x": 39.835,
+          "y": 73.955
+        }
+      },
+      "homers": [
+        {
+          "game_date": "2024-07-31",
+          "pitcher": "671737",
+          "outs_when_up": "0",
+          "inning": "2",
+          "hc_x": "55.49",
+          "hc_y": "83.62",
+          "launch_angle": "33",
+          "launch_speed": "98.8",
+          "home_team": "TB",
+          "game_pk": "745061"
+        },
+        {
+          "game_date": "2024-08-02",
+          "pitcher": "680885",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "51.32",
+          "hc_y": "55.12",
+          "launch_angle": "34",
+          "launch_speed": "100.1",
+          "home_team": "ATL",
+          "game_pk": "747089"
+        },
+        {
+          "game_date": "2024-08-04",
+          "pitcher": "592426",
+          "outs_when_up": "2",
+          "inning": "4",
+          "hc_x": "25.45",
+          "hc_y": "94.92",
+          "launch_angle": "27",
+          "launch_speed": "98.3",
+          "home_team": "ATL",
+          "game_pk": "747088"
+        },
+        {
+          "game_date": "2024-08-09",
+          "pitcher": "527048",
+          "outs_when_up": "0",
+          "inning": "4",
+          "hc_x": "32.99",
+          "hc_y": "68.44",
+          "launch_angle": "25",
+          "launch_speed": "103.9",
+          "home_team": "MIA",
+          "game_pk": "746032"
+        },
+        {
+          "game_date": "2024-08-14",
+          "pitcher": "663969",
+          "outs_when_up": "1",
+          "inning": "1",
+          "hc_x": "42.19",
+          "hc_y": "66.36",
+          "launch_angle": "22",
+          "launch_speed": "103.5",
+          "home_team": "PHI",
+          "game_pk": "745544"
+        },
+        {
+          "game_date": "2024-09-07",
+          "pitcher": "605400",
+          "outs_when_up": "0",
+          "inning": "5",
+          "hc_x": "22.78",
+          "hc_y": "91.14",
+          "launch_angle": "27",
+          "launch_speed": "100.7",
+          "home_team": "MIA",
+          "game_pk": "746018"
+        },
+        {
+          "game_date": "2024-09-15",
+          "pitcher": "674285",
+          "outs_when_up": "0",
+          "inning": "7",
+          "hc_x": "54.22",
+          "hc_y": "52.99",
+          "launch_angle": "24",
+          "launch_speed": "103.8",
+          "home_team": "WSH",
+          "game_pk": "744801"
+        },
+        {
+          "game_date": "2024-09-22",
+          "pitcher": "656550",
+          "outs_when_up": "2",
+          "inning": "2",
+          "hc_x": "25.28",
+          "hc_y": "74.02",
+          "launch_angle": "31",
+          "launch_speed": "100.4",
+          "home_team": "MIA",
+          "game_pk": "746010"
+        },
+        {
+          "game_date": "2024-09-24",
+          "pitcher": "641927",
+          "outs_when_up": "1",
+          "inning": "2",
+          "hc_x": "28.49",
+          "hc_y": "64.28",
+          "launch_angle": "27",
+          "launch_speed": "104.3",
+          "home_team": "MIN",
+          "game_pk": "745851"
+        },
+        {
+          "game_date": "2024-09-27",
+          "pitcher": "621244",
+          "outs_when_up": "2",
+          "inning": "1",
+          "hc_x": "46.25",
+          "hc_y": "79.02",
+          "launch_angle": "34",
+          "launch_speed": "92.8",
+          "home_team": "TOR",
+          "game_pk": "744879"
+        }
+      ],
+      "similarity_score": 63.56606723414567
+    }
+  ]
+}
