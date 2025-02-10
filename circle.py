@@ -3,7 +3,7 @@ from typing import List, Set
 import math
 
 
-@dataclass
+@dataclass(frozen=True, eq=True)
 class Circle:
     radius: float
     center: "Coordinate"
@@ -18,18 +18,11 @@ class Coordinate:
         return distance_between(self, c.center) <= c.radius
 
 
-@dataclass
-class Circle:
-    radius: float
-    center: Coordinate
-
-
 def distance_between(a: Coordinate, b: Coordinate):
     return math.sqrt((a.x - b.x) ** 2 + (a.y - b.y) ** 2)
 
 
 def smallest_circle(homers: List[dict]) -> Circle:
-    """ """
     hit_coordinates = set(
         [Coordinate(x=float(homer["hc_x"]), y=float(homer["hc_y"])) for homer in homers]
     )
@@ -37,6 +30,10 @@ def smallest_circle(homers: List[dict]) -> Circle:
 
 
 def welzl(all_points: Set[Coordinate], boundary_points: Set[Coordinate]) -> Circle:
+    """
+    An implementation of Welzl's algorithm:
+    https://en.wikipedia.org/wiki/Smallest-circle_problem#Welzl's_algorithm
+    """
     if len(all_points) == 0 or len(boundary_points) == 3:
         return trivial(boundary_points)
 
@@ -52,7 +49,9 @@ def welzl(all_points: Set[Coordinate], boundary_points: Set[Coordinate]) -> Circ
 
 
 def random_point_in_set(points: Set[Coordinate]) -> Coordinate:
-    # TODO
+    # TODO: Welzl's algorithm would be optimized if this actually returned a random point,
+    # but the groups of home runs being evaluated are all small (between 2 and 10), so we're not really
+    # worried about catastrophic worst-cast that becomes really computationally inefficient.
     return list(points)[0]
 
 
@@ -73,36 +72,34 @@ def trivial(boundary_points: Set[Coordinate]):
 
     else:
         points = list(boundary_points)
-        return circumcircle(A=points[0], B=points[1], C=points[2])
+        return circumcircle(a=points[0], b=points[1], c=points[2])
 
 
 def midpoint(a: Coordinate, b: Coordinate) -> Coordinate:
     return Coordinate(x=(a.x + b.x) / 2, y=(a.y + b.y) / 2)
 
 
-def circumcircle(A: Coordinate, B: Coordinate, C: Coordinate) -> Circle:
-    # Compute the determinants
-    D = 2 * (A.x * (B.y - C.y) + B.x * (C.y - A.y) + C.x * (A.y - B.y))
+def circumcircle(a: Coordinate, b: Coordinate, c: Coordinate) -> Circle:
+    # Compute the determinants:
+    d = 2 * (a.x * (b.y - c.y) + b.x * (c.y - a.y) + c.x * (a.y - b.y))
 
-    if D == 0:
+    if d == 0:
         raise ValueError(
             "The given points are collinear and do not form a valid triangle."
         )
 
     # Compute circumcenter coordinates
-    Ux = (
-        (A.x**2 + A.y**2) * (B.y - C.y)
-        + (B.x**2 + B.y**2) * (C.y - A.y)
-        + (C.x**2 + C.y**2) * (A.y - B.y)
-    ) / D
-    Uy = (
-        (A.x**2 + A.y**2) * (C.x - B.x)
-        + (B.x**2 + B.y**2) * (A.x - C.x)
-        + (C.x**2 + C.y**2) * (B.x - A.x)
-    ) / D
+    cx = (
+        (a.x**2 + a.y**2) * (b.y - c.y)
+        + (b.x**2 + b.y**2) * (c.y - a.y)
+        + (c.x**2 + c.y**2) * (a.y - b.y)
+    ) / d
+    cy = (
+        (a.x**2 + a.y**2) * (c.x - b.x)
+        + (b.x**2 + b.y**2) * (a.x - c.x)
+        + (c.x**2 + c.y**2) * (b.x - a.x)
+    ) / d
 
-    circumcenter = Coordinate(Ux, Uy)
-
-    # Compute circumradius
-    radius = math.sqrt((A.x - Ux) ** 2 + (A.y - Uy) ** 2)
+    circumcenter = Coordinate(cx, cy)
+    radius = math.sqrt((a.x - cx) ** 2 + (a.y - cy) ** 2)
     return Circle(center=circumcenter, radius=radius)
