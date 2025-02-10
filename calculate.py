@@ -3,7 +3,7 @@ from typing import List, Dict
 
 from circle import smallest_circle
 
-descending = False
+descending = True
 
 
 def window_function(all_homers: List[dict]) -> Dict[int, dict]:

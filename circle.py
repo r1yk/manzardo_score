@@ -1,6 +1,9 @@
 from dataclasses import dataclass
 from typing import List, Set
 import math
+import random
+
+random.seed()
 
 
 @dataclass(frozen=True, eq=True)
@@ -52,7 +55,8 @@ def random_point_in_set(points: Set[Coordinate]) -> Coordinate:
     # TODO: Welzl's algorithm would be optimized if this actually returned a random point,
     # but the groups of home runs being evaluated are all small (between 2 and 10), so we're not really
     # worried about catastrophic worst-cast that becomes really computationally inefficient.
-    return list(points)[0]
+    random_index = math.floor(random.random() * len(points))
+    return list(points)[random_index]
 
 
 def trivial(boundary_points: Set[Coordinate]):
