@@ -120,13 +120,15 @@ def similarity_score(homerun_data: dict) -> float:
     games_bonus = 1 / len(set(game_pks))
     pitchers_bonus = 1 / len(set(pitchers))
 
-    bonuses = sum([stadiums_bonus, games_bonus, pitchers_bonus])
+    bonuses = stadiums_bonus + games_bonus + pitchers_bonus
 
     deductions = homerun_data["circle"].radius + launch_angle_range + exit_velo_range
     return 100 - (deductions / (1 + bonuses))
 
 
 class Encoder(json.JSONEncoder):
+    """Allows custom data types (like Circle) to become JSON-serializable."""
+
     def default(self, obj):
         if hasattr(obj, "__dict__"):
             return obj.__dict__
@@ -135,7 +137,9 @@ class Encoder(json.JSONEncoder):
 
 with open("data/04_player_data.json") as json_file, open(
     "data/05_all_results.json", mode="w"
-) as results_file, open("data/06_top_results.json", mode="w") as sorted_results_file:
+) as results_file, open(
+    f"data/06_{'top' if similarity_descending else 'bottom'}_results.json", mode="w"
+) as top_results_file:
     player_data: dict = json.load(json_file)
     results_data = {}
 
@@ -159,4 +163,4 @@ with open("data/04_player_data.json") as json_file, open(
             reverse=similarity_descending,
         )[0:5]
 
-    json.dump(all_players_by_group_size, sorted_results_file, indent=2, cls=Encoder)
+    json.dump(all_players_by_group_size, top_results_file, indent=2, cls=Encoder)
