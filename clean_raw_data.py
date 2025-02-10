@@ -18,6 +18,10 @@ savant_fields = (
     "inning",
     "hc_x",
     "hc_y",
+    "launch_angle",
+    "launch_speed",
+    "home_team",
+    "game_pk",
 )
 
 # Strip out all the columns from the Baseball Savant CSV that we don't want/need.
