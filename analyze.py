@@ -161,6 +161,7 @@ with open(f"data/{year}/interim/player_data.json") as json_file, open(
 ) as results_file, open(
     f"data/{year}/{'top' if similarity_descending else 'bottom'}_results.json",
     mode="w",
+    encoding="utf-8",
 ) as top_results_file:
     player_data: dict = json.load(json_file)
     results_data = {}
@@ -170,7 +171,7 @@ with open(f"data/{year}/interim/player_data.json") as json_file, open(
             **homerun_groups(batter_data.get("homeruns")),
         }
 
-    json.dump(results_data, results_file, indent=2, cls=Encoder)
+    json.dump(results_data, results_file, indent=2, cls=Encoder, ensure_ascii=False)
 
     all_players_by_group_size = {}
     for batter_id, batter_data in results_data.items():
@@ -193,4 +194,10 @@ with open(f"data/{year}/interim/player_data.json") as json_file, open(
             reverse=similarity_descending,
         )[0:5]
 
-    json.dump(all_players_by_group_size, top_results_file, indent=2, cls=Encoder)
+    json.dump(
+        all_players_by_group_size,
+        top_results_file,
+        indent=2,
+        cls=Encoder,
+        ensure_ascii=False,
+    )

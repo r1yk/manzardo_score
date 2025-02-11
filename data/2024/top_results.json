@@ -648,7 +648,7 @@
     },
     {
       "batter_id": "606192",
-      "player_name": "Teoscar Hern\u00e1ndez",
+      "player_name": "Teoscar Hernández",
       "circle": {
         "radius": 10.9655181890595,
         "center": {
@@ -865,10 +865,10 @@
       "batter_id": "600869",
       "player_name": "Jeimer Candelario",
       "circle": {
-        "radius": 10.764812659932703,
+        "radius": 10.76481265993265,
         "center": {
-          "x": 219.16701701791644,
-          "y": 72.40861790794168
+          "x": 219.16701701791638,
+          "y": 72.40861790794166
         }
       },
       "homers": [
@@ -943,7 +943,7 @@
           "plate_z": "2.91"
         }
       ],
-      "similarity_score": 93.73912497092132,
+      "similarity_score": 93.73912497092134,
       "homer_range": "13-17"
     },
     {
@@ -1203,7 +1203,7 @@
     },
     {
       "batter_id": "660821",
-      "player_name": "Jes\u00fas S\u00e1nchez",
+      "player_name": "Jesús Sánchez",
       "circle": {
         "radius": 26.696749333954504,
         "center": {
@@ -4318,7 +4318,7 @@
     },
     {
       "batter_id": "553993",
-      "player_name": "Eugenio Su\u00e1rez",
+      "player_name": "Eugenio Suárez",
       "circle": {
         "radius": 49.27310955277736,
         "center": {
