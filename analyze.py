@@ -10,7 +10,6 @@ savant_fields = (
     "player_name",
     "batter",
     "pitcher",
-    "outs_when_up",
     "at_bat_number",
     "hc_x",
     "hc_y",
@@ -23,6 +22,7 @@ savant_fields = (
 )
 
 year = sys.argv[1] if len(sys.argv) > 1 else 2024
+similarity_descending = True if len(sys.argv) < 2 or sys.argv[2] != "asc" else False
 
 
 def clean_player_name(name: str) -> str:
@@ -85,8 +85,6 @@ with open(f"data/{year}/interim/sorted_data.csv") as sorted_csv_file, open(
 
     json.dump(grouped_by_player, player_data_json, indent=2, ensure_ascii=False)
 
-similarity_descending = True
-
 
 def homerun_groups(all_homers: List[dict]) -> Dict[int, dict]:
     """
@@ -131,9 +129,9 @@ def similarity_score(homerun_data: dict) -> float:
     game_pks = [hr["game_pk"] for hr in homers]
     pitchers = [hr["pitcher"] for hr in homers]
 
-    stadiums_bonus = (1 / len(set(home_teams))) * 4
-    games_bonus = 1 / len(set(game_pks))
-    pitchers_bonus = 1 / len(set(pitchers))
+    stadiums_bonus = 2 if len(set(home_teams)) == 1 else 0
+    games_bonus = 0.5 if len(set(game_pks)) == 1 else 0
+    pitchers_bonus = 0.5 if len(set(pitchers)) == 1 else 0
 
     bonuses = stadiums_bonus + games_bonus + pitchers_bonus
 
@@ -144,6 +142,7 @@ def similarity_score(homerun_data: dict) -> float:
         + plate_x_range
         + plate_z_range
     )
+
     return 100 - (deductions / (1 + bonuses))
 
 
