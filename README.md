@@ -2,11 +2,11 @@
 
 Here's an oddball investigation inspired by a gut feeling of mine: all of Trea Turner's home runs look exactly the same. I'm not even a Phillies fan and yet I can picture them so clearly: belt-high fastball, middle to middle-out, 29 degree launch angle and 106mph exit velocity. 408 feet to left-center, 5 rows back. Every time, I swear!
 
-This got me thinking about to what extent we can quantify and identify home runs that really do look about the same. More specifically, how often do players hit _consecutive_, near-identical homers? And most importantly, is there any basis for my weird convictions about Trea Turner?
+This got me thinking about to what extent we can quantify and identify home runs that really do look about the same. More specifically, how often do players hit _consecutive_, near-identical homers? And most importantly, is there any basis for my weird conviction regarding Trea Turner?
 
 # Approach
 
-Since Statcast gives us the X-Y coordinates for where each homer lands, this can be treated as a case of the [smallest-circle problem](https://en.wikipedia.org/wiki/Smallest-circle_problem). Think of it as having a big basketball hoop out in the bleachers. How wide would the basket need to be be for us to find an instance of a specific player hitting 2 (or 3, or 4) consecutive baskets? The home runs need not be consecutive _plate appearances_, only consecutive in their season totals (i.e. homers 16 through 18 or whatever).
+Since Statcast gives us the X-Y coordinates for where each homer lands, this can be treated as a case of the [smallest-circle problem](https://en.wikipedia.org/wiki/Smallest-circle_problem). Think of it as having a big basketball hoop out in the bleachers. How wide would the basket need to be for us to find an instance of a specific player hitting 2 (or 3, or 4) consecutive baskets? The home runs need not be consecutive _plate appearances_, only consecutive in their season totals (i.e. homers 16 through 18 or whatever).
 
 This can identify oddities like Starling Marte's 2nd and 3rd homers of 2024, both of which doinked off of nearly the exact same length of guardrail at Citi Field:
 
@@ -109,7 +109,7 @@ Furthermore, I propose that this metric be named after our first annual champion
 
 ## Source code
 
-This project was done with a CSV export from Baseball Savant and a bit of Python. The code, the source data, and the full set of results can all be found [here on Github]().
+This project was done with a CSV export from Baseball Savant and a bit of Python. The code, the source data, and the full set of results can all be found [here on Github](https://github.com/r1yk/manzardo_score).
 
 ## Addendum
 
